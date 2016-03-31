@@ -1,5 +1,5 @@
-<li>
-  {{post.name}} {{post.location}} {{post.image}}
-  {{update-post post=post update="update"}}
-  <button {{action 'delete' post}}>Delete,</button>
+<li>{{#link-to 'post' post.id}}{{post.name}} {{post.location}}{{/link-to}}
+
+    <p><img src={{post.image}} alt={{post.name}}></p>
+
 </li>
