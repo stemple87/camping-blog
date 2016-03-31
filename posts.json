@@ -1,0 +1,17 @@
+{ "posts": [{
+    "name": "Veruca Salt",
+    "location": "San Francisco",
+    "body": "Estate",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "name": "Mike Teavee",
+    "location": "Seattle",
+    "body": "Condo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg"
+  }, {
+    "name": "Violet Beauregarde",
+    "location": "Portland",
+    "body": "Apartment",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Wheeldon_Apartment_Building_-_Portland_Oregon.jpg"
+  }]
+}
