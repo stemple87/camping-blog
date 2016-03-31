@@ -1,4 +1,5 @@
 <li>
   {{post.name}} {{post.location}} {{post.image}}
+  {{update-post post=post update="update"}}
   <button {{action 'delete' post}}>Delete,</button>
 </li>

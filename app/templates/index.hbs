@@ -4,9 +4,11 @@ We hope you find exactly what you're looking for in a place to stay.
 
 <ul>
   {{#each model as |post|}}
-     {{post-tile post=post destroyPost="destroyPost"}}
+     {{post-tile post=post update="update" destroyPost="destroyPost"}}
   {{/each}}
 </ul>
+
+{{new-post save2="save3"}}
 
 {{#link-to 'about'}}About{{/link-to}}
 {{#link-to 'contact'}}Click here to contact us.{{/link-to}}
