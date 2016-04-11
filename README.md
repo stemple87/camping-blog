@@ -1,7 +1,30 @@
-# Camping-nw-blog
+# _Camping Blog_
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+#### _This is a camping blog_
+
+#### By _**Simon Temple**_
+
+## Description
+
+_Work in progress/ This site will eventually have posts, the ability to comment, and an admin portal._
+
+## Known Bugs
+
+_None known_
+
+## Support and contact details
+
+_You can contact me at simonctemple@live.com or at my github profile https://github.com/stemple87_
+
+## Technologies Used
+
+_This app is made using Ember and Node.js_
+
+### License
+
+
+Copyright (c) 2015 **_Simon Temple_**
+
 
 ## Prerequisites
 
